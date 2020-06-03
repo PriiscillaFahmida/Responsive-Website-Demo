@@ -1,0 +1,8 @@
+1. Design the landing page.
+2. Add the signup and login form page from previous assignment. Customize to match design theme.
+3. Color gradients used for background. Search background gradient form w3school.
+
+Codes : 
+background: linear-gradient(45deg, #f7395f 0%, #fe702e 100%);
+background: #fbf9f8;
+color: #f7395f;

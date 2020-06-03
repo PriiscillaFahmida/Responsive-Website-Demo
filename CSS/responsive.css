@@ -1,0 +1,250 @@
+@media only screen and (min-width:320px) {
+    ul {
+        float: right;
+    }
+
+    nav > ul > li > a {
+        font-size: 10px !important;
+    }
+
+    .highlighted > a {
+        margin-right: 0px;
+    }
+
+    .logo {
+        width: 50px;
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+
+    .banner_content {
+        padding-top: 210px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .banner_content > h1 {
+        font-size: 50px;
+    }
+
+    .banner_content > h3 {
+        font-size: 20px;
+    }
+
+    .btn1 {
+        min-width: 120px;
+    }
+
+    .offer1,
+    .offer2,
+    .offer3,
+    .offer4,
+    .offer5,
+    .offer6 {
+        width: 90%;
+        margin-bottom: 10px !important;
+        margin: 0px;
+    }
+
+    .left-content {
+        width: 100%;
+    }
+
+    .right-image {
+        width: 100%;
+        height: 100%;
+    }
+    .lptp{
+    height: 300px;
+    width: 300px;
+}
+
+    .banner2 {
+        margin-top: 80%;
+        min-height: 460px;
+    }
+
+    .btn2 {
+        min-width: 100px;
+        font-size: 10px;
+    }
+
+    .got1,
+    .got2,
+    .got3 {
+        width: 90%;
+        margin: 5%;
+    }
+
+    .cheading {
+        padding-bottom: 0px;
+    }
+
+    .cpara {
+        padding: 3%;
+        margin: 5%;
+    }
+
+    .image1,
+    .image2,
+    .image3 {
+        width: 90%;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+
+    .section4 {
+        padding: 0px;
+    }
+
+    .box7,
+    .box8,
+    .box9 {
+        width: 90%
+    }
+}
+@media only screen and (min-width:480px){
+    nav > ul > li > a {
+        font-size: 13px !important;
+    }
+    .logo {
+        width: 60px;
+        padding-top: 22px;
+        padding-left: 0px;
+    }
+    .btn1 {
+        min-width: 130px;
+    }
+    .lptp{
+    height: 350px;
+    width: 350px;
+    }
+    .banner2{
+        min-height: 480px;
+    }
+    .section4{
+        padding: 10px;
+    }
+}
+@media only screen and (min-width:768px){
+    nav > ul > li > a {
+        font-size: 15px !important;
+    }
+
+    .highlighted > a {
+        margin-right: 30px;
+    }
+
+    .logo {
+        width: 70px;
+        height: 15px;
+        padding-top: 20px;
+        padding-left: 30px;
+    }
+
+    .banner_content {
+        padding-top: 270px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .btn1 {
+        min-width: 140px;
+    }
+    .offer1,
+    .offer2,
+    .offer3,
+    .offer4,
+    .offer5,
+    .offer6 {
+        width: 45%;
+        margin-bottom: 10px !important;
+        margin: 0px;
+    }
+    .left-content{
+        line-height: 2;
+        width: 300px;
+        display: inline-block;
+    }
+    .right-image{
+        float: right;
+    }
+    .lptp{
+    height: 340px;
+    width: 340px;
+    }
+    .section2{
+        padding-right: 0%;
+    }
+    .left-content{
+        width: 50%;
+        margin-top: 10%;
+    }
+    .right-image{
+        width: 41%;
+        padding-right: 9%;
+        margin-top: 18%;
+    }
+    .banner2 {
+        margin-top: 10%;
+        min-height: 260px;
+    }
+
+    .btn2 {
+        min-width: 130px;
+        font-size: 13px;
+    }
+    .got1, .got2, .got3{
+        width: 23%;
+    }
+    .cpara{
+        margin: 0%;
+    }
+    .image1,.image2,.image3{
+        width: 19.9%;
+        margin: 6.5%;
+    }
+    .section4{
+        padding: 40px;
+    }
+    .box7, .box8, .box9{
+        width: 32%;
+    }
+}
+@media only screen and (min-width:1200px){
+    .highlighted > a {
+        margin-right: 35px;
+    }
+    .banner_content{
+        padding-top: 320px;
+    }
+    .banner_content>h1{
+    font-size: 60px;  
+    }
+    .banner_content>h3{
+    font-size: 28px;
+    }
+    .btn1{
+    min-width: 180px;
+    border: 2px solid white;
+    }
+    .offer1, .offer2, .offer3, .offer4, .offer5, .offer6{
+        width: 30%;
+    }
+    .right-image{
+        margin-top: 10%;
+    }
+    .lptp {
+    height: 400px;
+    width: 400px;
+    }
+    .section4 {
+    padding: 90px;
+    }
+    .highlighted>a{
+        border:2px solid aqua;
+    }
+    .logo{
+    padding-top: 20px;
+    padding-left: 35px;
+}
+}

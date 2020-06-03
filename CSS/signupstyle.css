@@ -1,0 +1,89 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(../Images/Banner.jpg);
+    font-size: 15px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#Signup-box{
+    position: relative;
+    margin: 5% auto;
+    height: 500px;
+    width: 600px;
+    background: #fff;
+    box-shadow: 0 2px 27px rgba(0,0,0,0.9);
+}
+.left-box{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 350px;
+    height: 500px;
+    background-image: url(../Images/home-image.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+.right-box{
+   position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 30px;
+    width: 250px;
+    height: 500px;
+}
+h1{
+    margin: 0 0 20px 0;
+    font-size: 38px;
+}
+input[type="text"],input[type="password"]{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 4px;
+    width: 180px;
+    height: 28px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.9s ease;  
+}
+.signupbtn{
+    color: white;
+    min-width: 90px;
+    padding: 5px 10px;
+    background-color: blue;
+    opacity: .7;
+    border-radius: 25px;
+    margin-top: 7px;
+}
+.signinbtn{
+    color: white;
+    min-width: 90px;
+    padding: 5px 10px;
+    background-color: green;
+    opacity: .7;
+    border-radius: 25px; 
+}
+.signinbtn>a{
+    color: white;
+    text-decoration: none;
+}
+.signupbtn:hover{
+    opacity: 1;
+}
+.signinbtn:hover{
+    opacity: 1;
+}
+.tik{
+    font-size: 10px;
+}
